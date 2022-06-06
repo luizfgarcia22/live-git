@@ -1,2 +1,6 @@
 Teste
+<<<<<<< HEAD
 
+=======
+Nova Linha
+>>>>>>> 88e7fbb64bdbf1f70922f251470d5b42fe00d89c
